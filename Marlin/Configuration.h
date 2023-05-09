@@ -622,12 +622,12 @@
     #define DEFAULT_Ki_LIST {   1.08,   1.08 }
     #define DEFAULT_Kd_LIST { 114.00, 114.00 }
   #else
-    #define DEFAULT_Kp  30.85
-    #define DEFAULT_Ki   1.91
-    #define DEFAULT_Kd 124.45
+    #define DEFAULT_Kp  23.50
+    #define DEFAULT_Ki   1.24
+    #define DEFAULT_Kd 111.67
   #endif
 #endif
-// m301 P30.85 I1.91 D124.45
+// m301 P28.18 I1.55 D128.14
 /**
  * Model Predictive Control for hotend
  *
